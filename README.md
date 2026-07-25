@@ -47,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/Hassan-Khan-12/Hassan-Khan-12/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> ⚙️ This snake needs a one-time GitHub Actions setup — instructions below.
+
 
 ---
 
